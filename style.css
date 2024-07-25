@@ -1,0 +1,14 @@
+button {
+    position: relative;
+    left: 908px;
+    top: 302px;
+    opacity: 0;
+}
+
+img {
+    width: 150px;
+    height: 400px;
+    position: fixed;
+    right: 880px;
+    bottom: 265px;
+  }
